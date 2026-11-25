@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 214" width="100%" role="img" aria-label="claude-code-helper-with-codex: Every Claude/Codex session in one place.">
+<style>
+  .t { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .s { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif; }
+</style>
+<rect x=".5" y=".5" width="599" height="213" rx="16" fill="#0A0C10" stroke="#232A35"/>
+<rect x="0" y="22" width="4" height="170" rx="2" fill="#A78BFA"/>
+<text class="t" x="30" y="46" font-size="15" fill="#7D8590">🤖 Dradradre/</text>
+<text class="t" x="30" y="76" font-size="24" font-weight="700" fill="#E6EDF3">claude-code-helper-with-codex</text>
+<text class="s" x="30" y="106" font-size="16" font-weight="600" fill="#A78BFA">Every Claude/Codex session in one place.</text>
+<text class="s" x="30" y="132" font-size="14.5" fill="#7D8590">Browse sessions, track token costs, and make the two AIs</text>
+<text class="s" x="30" y="154" font-size="14.5" fill="#7D8590">debate each other.</text>
+<g transform="translate(30 190)">
+  <circle cx="6" cy="-5" r="6" fill="#3572A5"/>
+  <text class="s" x="18" y="0" font-size="13" fill="#7D8590">Python</text>
+  <rect x="88" y="-17" width="99.4" height="22" rx="11" fill="#0F1319" stroke="#232A35"/><text class="t" x="137.7" y="-2" text-anchor="middle" font-size="12" fill="#E6EDF3">claude-code</text><rect x="195.4" y="-17" width="55" height="22" rx="11" fill="#0F1319" stroke="#232A35"/><text class="t" x="222.9" y="-2" text-anchor="middle" font-size="12" fill="#E6EDF3">codex</text><rect x="258.4" y="-17" width="77.2" height="22" rx="11" fill="#0F1319" stroke="#232A35"/><text class="t" x="297" y="-2" text-anchor="middle" font-size="12" fill="#E6EDF3">devtools</text>
+</g>
+</svg>
