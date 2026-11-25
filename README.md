@@ -16,20 +16,17 @@ operations (SOC) and build open-source tools where detection, deception and AI a
 
 ### Building
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/Dradradre/honeytokens-as-code"><img src="assets/card-honeytokens-as-code.svg" alt="honeytokens-as-code: your coding agent plants the canaries. MCP server, agent skill and CLI for AWS canary keys and webhook honeytokens." width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Dradradre/korean-anti-slop-writing"><img src="assets/card-korean-anti-slop-writing.svg" alt="korean-anti-slop-writing: an agent skill that finds and fixes AI-sounding patterns in Korean text." width="100%"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/Dradradre/Reel"><img src="assets/card-Reel.svg" alt="Reel: eyes and ears for AI agents that make videos." width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/Dradradre/claude-code-helper-with-codex"><img src="assets/card-claude-code-helper-with-codex.svg" alt="claude-code-helper-with-codex: browse Claude and Codex sessions, track token costs, make the two AIs debate." width="100%"></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Dradradre/honeytokens-as-code"><img src="assets/card-honeytokens-as-code.svg" alt="honeytokens-as-code: your coding agent plants the canaries. MCP server, agent skill and CLI for AWS canary keys and webhook honeytokens." width="49%"></a>
+  <a href="https://github.com/Dradradre/korean-anti-slop-writing"><img src="assets/card-korean-anti-slop-writing.svg" alt="korean-anti-slop-writing: an agent skill that finds and fixes AI-sounding patterns in Korean text." width="49%"></a>
+  <br>
+  <a href="https://github.com/Dradradre/Reel"><img src="assets/card-Reel.svg" alt="Reel: eyes and ears for AI agents that make videos." width="49%"></a>
+  <a href="https://github.com/Dradradre/claude-code-helper-with-codex"><img src="assets/card-claude-code-helper-with-codex.svg" alt="claude-code-helper-with-codex: browse Claude and Codex sessions, track token costs, make the two AIs debate." width="49%"></a>
+</p>
 
 ### Focus
 
-| | |
+| Area | What I work on |
 |---|---|
 | 🛡️ **Detection & response** | Security operations, alert triage, response automation |
 | 🍯 **Deception** | Honeytokens, canary credentials, tripwires that name the file that leaked |
