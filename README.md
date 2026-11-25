@@ -18,7 +18,7 @@ leaked credentials, automation that takes toil off analysts, and agents that are
   <a href="https://github.com/Dradradre/honeytokens-as-code"><img src="assets/card-honeytokens-as-code.svg?v=2" alt="honeytokens-as-code: your coding agent plants the canaries. MCP server, agent skill and CLI for AWS canary keys and webhook honeytokens." width="49%"></a>
   <a href="https://github.com/Dradradre/korean-anti-slop-writing"><img src="assets/card-korean-anti-slop-writing.svg?v=2" alt="korean-anti-slop-writing: an agent skill that finds and fixes AI-sounding patterns in Korean text." width="49%"></a>
   <br>
-  <a href="https://github.com/Dradradre/Reel"><img src="assets/card-Reel.svg?v=2" alt="Reel: eyes and ears for AI agents that make videos." width="49%"></a>
+  <a href="https://github.com/Dradradre/Reel"><img src="assets/card-Reel.svg?v=3" alt="Reel: eyes and ears for AI agents that make videos." width="49%"></a>
   <a href="https://github.com/Dradradre/claude-code-helper-with-codex"><img src="assets/card-claude-code-helper-with-codex.svg?v=2" alt="claude-code-helper-with-codex: browse Claude and Codex sessions, track token costs, make the two AIs debate." width="49%"></a>
 </p>
 
