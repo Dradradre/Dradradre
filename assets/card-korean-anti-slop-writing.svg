@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 214" width="100%" role="img" aria-label="korean-anti-slop-writing: AI Slop 느낌 나는 글은 이제 지친다">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 214" width="100%" role="img" aria-label="korean-anti-slop-writing: Korean text that doesn’t read like AI slop.">
 <style>
   .t { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
   .s { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif; }
@@ -7,9 +7,9 @@
 <rect x="0" y="22" width="4" height="170" rx="2" fill="#3DDC97"/>
 <text class="t" x="30" y="46" font-size="15" fill="#7D8590">✍️ Dradradre/</text>
 <text class="t" x="30" y="76" font-size="24" font-weight="700" fill="#E6EDF3">korean-anti-slop-writing</text>
-<text class="s" x="30" y="106" font-size="16" font-weight="600" fill="#3DDC97">AI Slop 느낌 나는 글은 이제 지친다</text>
-<text class="s" x="30" y="132" font-size="14.5" fill="#7D8590">AI가 쓴 티가 나는 한국어 문장 패턴을 찾아 사람 글처럼</text>
-<text class="s" x="30" y="154" font-size="14.5" fill="#7D8590">고쳐 주는 에이전트 스킬.</text>
+<text class="s" x="30" y="106" font-size="16" font-weight="600" fill="#3DDC97">Korean text that doesn’t read like AI slop.</text>
+<text class="s" x="30" y="132" font-size="14.5" fill="#7D8590">An agent skill that finds AI-sounding patterns in Korean</text>
+<text class="s" x="30" y="154" font-size="14.5" fill="#7D8590">writing and rewrites them the way a person would.</text>
 <g transform="translate(30 190)">
   <circle cx="6" cy="-5" r="6" fill="#3572A5"/>
   <text class="s" x="18" y="0" font-size="13" fill="#7D8590">Python</text>

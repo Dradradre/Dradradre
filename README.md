@@ -6,11 +6,9 @@
 
 <br>
 
-**Hi, I'm 이용학 (Dradradre)**, a security engineer at Kyobo DTS's information security center. I work in security
-operations (SOC) and build open-source tools where detection, deception and AI agents meet.
-
-**교보DTS 정보보안센터**의 보안 엔지니어입니다. 보안관제(SOC) 현장에서 탐지와 대응을 하고, 기만(deception) 기술과 자동화,
-그리고 보안 업무에 AI 에이전트를 붙이는 오픈소스를 만듭니다.
+**Hi, I'm Yonghak Lee (Dradradre)**, a security engineer at Kyobo DTS's information security center in Seoul. I work in
+security operations (SOC) and build open-source tools where detection, deception and AI agents meet: decoys that catch
+leaked credentials, automation that takes toil off analysts, and agents that are actually useful to defenders.
 
 <br>
 
